@@ -6,7 +6,7 @@ This project is an AI-based application that detects human emotions from text or
 
 - **Features**
 
-1. Text Emotion Detection using NLP neural network models
+1. Text Emotion Detection using ensemble learning model(Logistic Regression, Support vector Machine, and Naive Bayes) and LSTM model.
 2. Image Emotion Detection using CNN-based models
 3. Real-time classification
 4. Simple and interactive Streamlit UI
@@ -28,13 +28,21 @@ This project is an AI-based application that detects human emotions from text or
 4. Results are displayed instantly in the UI
 
 - **Supported Emotions**
-
-1. Happy
-2. Sad
-3. Angry
-4. Fear
-5. Surprise
-6. Neutral
+**For text:**
+1. sadness
+2. joy
+3. love
+4. anger
+5. fear
+6. surprise
+**For image**
+1. happy
+2. sad
+3. disgusted
+4. surprised
+5. angry
+6. fearful
+7. neutral
 
 - **Author** 
 - Meryem Amr (feel free to update this section)
