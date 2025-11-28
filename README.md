@@ -28,14 +28,15 @@ This project is an AI-based application that detects human emotions from text or
 4. Results are displayed instantly in the UI
 
 - **Supported Emotions**
-**For text:**
+-- **For text:**
 1. sadness
 2. joy
 3. love
 4. anger
 5. fear
 6. surprise
-**For image**
+
+-- **For image**
 1. happy
 2. sad
 3. disgusted
