@@ -45,4 +45,4 @@ This project is an AI-based application that detects human emotions from text or
 7. neutral
 
 - **Author**
-Meryem Amr (feel free to update this section)
+Meryem Amr 
