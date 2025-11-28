@@ -20,31 +20,6 @@ This project is an AI-based application that detects human emotions from text or
 4. OpenCV / PIL (Image processing)
 5. NumPy & Pandas
 
-- **Project Structure**
-├── models/
-│   ├── text_model.h5
-│   └── image_model.h5
-├── app.py
-├── utils/
-│   ├── preprocess_text.py
-│   ├── preprocess_image.py
-│   └── predict.py
-├── requirements.txt
-└── README.md
-
-- **Installation**
-
-1. Clone the repository:
-git clone <your-repo-link>
-cd emotion-detection
-
-2. Install dependencies:
-pip install -r requirements.txt
-
-
-3. Run the application:
-streamlit run app.py
-
 - **How It Works**
 
 1. Choose Text or Image input
